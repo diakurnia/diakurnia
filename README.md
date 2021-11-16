@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I'm diah👋
+- 🔭 I’m currently working as backend engineer in telco company
+- 📫 I'm mathematics graduate 
+- 🌱 I’m interesting with Data Science and currently learning in Hacktiv8 with full-scholarship 
 
 <!--
 **diakurnia/diakurnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
