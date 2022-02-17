@@ -1,7 +1,7 @@
 <h2 align="center">Hi there I'm Dia Kurnia Dewi👋</h2>
-- 🔭 I'm mathematics graduate.
-- 🌱 I'm interested in Data, Math, Machine Learning and Programming
-- 📫 How to reach me: ...
+<h2 align="center">an aspiring data scientist and backend developer 💻!</h2>
+
+<p> I'm mathematics graduate with interest in Data, Machine Learning and Programming.  </p>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=diakurnia)](https://github.com/diakurnia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diakurnia&layout=compact)](https://github.com/diakurnia)
