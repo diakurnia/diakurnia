@@ -1,4 +1,4 @@
-### Hi there I'm Dia Kurnia Dewi👋
+<h2 align="center">Hi there I'm Dia Kurnia Dewi👋</h2>
 - 🔭 I'm mathematics graduate.
 - 🌱 I'm interested in Data, Math, Machine Learning and Programming
 - 📫 How to reach me: ...
