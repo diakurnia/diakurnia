@@ -1,9 +1,10 @@
 <h1 align="center">Hi there I'm Dia Kurnia Dewi👋</h1>
-<h2 align="center">I'm an aspiring data scientist and backend developer 💻!</h2>
+<h2 align="center">I'm an aspiring data scientist with mathematics degree 💻!</h2>
 
-<p> I'm mathematics graduate with interest in Data, Machine Learning and Programming. I love to read a book and learn new things to upgrade myself.</p>
+<p> I'm interest in Data, Machine Learning and Programming. Most of my programming learning process I got through bootcamp.  I love to read a book and learn new things to upgrade myself.</p>
 
 ## 🤝 Connect with me:
+<a href=”https://www.linkedin.com/in/dia-kurnia-dewi/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Dia Kurnia Dewi | LinkedIn” width=”21px”/></a>
 
 ## 💼 Technical Skills
 
