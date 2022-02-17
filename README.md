@@ -1,8 +1,13 @@
-<h2 align="center">Hi there I'm Dia Kurnia Dewi👋</h2>
-<h2 align="center">an aspiring data scientist and backend developer 💻!</h2>
+<h1 align="center">Hi there I'm Dia Kurnia Dewi👋</h1>
+<h2 align="center">I'm an aspiring data scientist and backend developer 💻!</h2>
 
-<p> I'm mathematics graduate with interest in Data, Machine Learning and Programming.  </p>
+<p> I'm mathematics graduate with interest in Data, Machine Learning and Programming. I love to read a book and learn new things to upgrade myself.</p>
 
+## 🤝 Connect with me:
+
+## 💼 Technical Skills
+
+## 📈 GitHub Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=diakurnia)](https://github.com/diakurnia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diakurnia&layout=compact)](https://github.com/diakurnia)
 
