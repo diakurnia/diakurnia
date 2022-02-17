@@ -4,7 +4,7 @@
 <p> I'm interest in Data, Machine Learning and Programming. Most of my programming learning process I got through bootcamp.  I love to read a book and learn new things to upgrade myself.</p>
 
 ## 🤝 Connect with me:
-<a href=”https://www.linkedin.com/in/dia-kurnia-dewi/">LinkedIn</a>
+- <a href="www.linkedin.com/in/dia-kurnia-dewi" ><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
 
 ## 💼 Technical Skills
 
